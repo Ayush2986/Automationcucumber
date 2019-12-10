@@ -1,2 +1,2 @@
-# Automationcucumber
+# CucumberAutomation
 CucumberAutomation
